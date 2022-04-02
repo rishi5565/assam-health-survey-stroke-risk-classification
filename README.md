@@ -110,7 +110,7 @@ We concluded our project by exporting the dataset of residents who are classifie
 * Sex
 * District
 
-### [Note]: ***Please refer to the Detailed Project Report word document for all the in-depth information regarding every decision made and the entire thinking process while working on this project. The above information is just a brief summary of the project.***
+### [Note]: ***Please refer to the Project Notebook file for all the in-depth information regarding every decision made and the entire thinking process while working on this project. The above information is just a brief summary of the project.***
 
 Thank You,
 Rishiraj Chowdhury
